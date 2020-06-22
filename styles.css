@@ -403,6 +403,12 @@ ul{
     max-width: 600px;
     margin: 30px auto;
   }
+  .products{
+    padding: 110px 0 110px;
+  }
+  .second-hero{
+    padding: 25px 0;
+  }
   .product-container{
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(2, 1fr);
